@@ -77,6 +77,6 @@ Signup/Login: Create a new user or log in with existing credentials.
 Browse Jobs: Search for job offers using the search bar.
 Apply for Jobs: View job details and submit applications for job offers.
 Conclusion
-You now have a fully functional job board running locally on your machine. You can extend or customize the features, deploy the frontend and backend to production, or integrate additional services.
+You now have a fully functional job board running locally on your machine. You can extend or customize the features, deploy the frontend and backend to production, or integrate additional service
 
 
